@@ -1,0 +1,25 @@
+body {
+    padding-inline: 30px ;
+}
+.options {
+    margin-bottom: 25px;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.feedback {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+
+.feedback span {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.notification p {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
