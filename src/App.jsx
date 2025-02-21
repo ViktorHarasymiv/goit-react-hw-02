@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 
 import Description from './Components/Description'; 
 import Options from './Components/Options';
-import Feedback from './Components/FeedBack';
+import Feedback from './Components/Feedback';
 
 import Notification from './Components/Notification';
 
